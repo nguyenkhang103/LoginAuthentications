@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "636251918501",
+    "firebase_url": "https://loginauthentication-10c5c.firebaseio.com",
+    "project_id": "loginauthentication-10c5c",
+    "storage_bucket": "loginauthentication-10c5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636251918501:android:54587118e3dbb6e4ebfd4c",
+        "android_client_info": {
+          "package_name": "com.example.kaido.loginauthentications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636251918501-7gkpdrpefh37930teqrhf341sgjj4nq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kaido.loginauthentications",
+            "certificate_hash": "374085ab7169f0086ff54e06624ab4c6488da4e1"
+          }
+        },
+        {
+          "client_id": "636251918501-1ipn4tmqs8bjek9nluohj3eg92421cci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC30dJfHneq1AYIuJoIJfacjfCY-6_v8cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636251918501-1ipn4tmqs8bjek9nluohj3eg92421cci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
